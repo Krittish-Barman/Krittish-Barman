@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 BCA Graduate | Software Developer | IT & Cloud Enthusiast  <br>⚙️ Java • Python • JavaScript • Linux • Web Development  <br>🛠️ Experience with system support, networking & cybersecurity basics  <br>☁️ Exploring Cloud, DevOps, Automation & SRE concepts  <br>🚀 Passionate about building reliable, scalable, and efficient systems  <br>
+💻 MCA student | Software Developer | IT & Cloud Enthusiast  <br>⚙️ Java • Python • JavaScript • Linux • Web Development  <br>🛠️ Experience with system support, networking & cybersecurity basics  <br>☁️ Exploring Cloud, DevOps, Automation & SRE concepts  <br>🚀 Passionate about building reliable, scalable, and efficient systems  <br>
 
 
 ## 🌐 Socials:

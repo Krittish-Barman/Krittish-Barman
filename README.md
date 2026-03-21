@@ -295,8 +295,7 @@ Ethical Hacking & Testing
 <a href="https://github.com/Krittish-Barman">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://twitter.com/krittish">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
 </a>
 
 <br/><br/>

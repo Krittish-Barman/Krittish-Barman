@@ -317,22 +317,7 @@ Ethical Hacking & Testing
 - 👥 Following me for updates
 - 🤝 Connecting on LinkedIn
 
-<br/>
 
-### 📫 Quick Contact
-
-```javascript
-// Feel free to reach out!
-const contactMe = {
-    email: "bkrittish@gmail.com",
-    linkedin: "linkedin.com/in/krittish-barman",
-    github: "github.com/Krittish-Barman",
-    availability: "Open for collaboration and opportunities",
-    response_time: "Within 24 hours ⚡"
-};
-```
-
-<br/>
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 

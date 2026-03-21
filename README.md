@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Krittish Barman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MCA+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +13,8 @@
 ```javascript
 const krittish = {
     location: "Krishnanagar, West Bengal, India 🇮🇳",
-    education: "BCA Graduate | MAKAUT",
+    education: "MCA Student @ B. P. Poddar Institute | MAKAUT",
+    previousDegree: "BCA Graduate | MAKAUT",
     currentFocus: "Building scalable web apps & exploring security",
     interests: ["Full Stack Development", "Cybersecurity", "Cloud Computing", "DSA"],
     lookingFor: "Software Engineering & Security roles at innovative companies",
@@ -133,6 +134,15 @@ skills_gained = {
 ## 🎓 Certifications & Learning
 
 <div align="center">
+
+### 🎓 Education
+
+| Degree | Institution | University | Duration | Status |
+|--------|-------------|------------|----------|--------|
+| 🎓 **Master of Computer Applications (MCA)** | B. P. Poddar Institute of Management & Technology | MAKAUT | 2025 - 2027 | 📚 Pursuing |
+| 💻 **Bachelor of Computer Applications (BCA)** | Global College of Science and Technology | MAKAUT | 2022 - 2025 | ✅ Graduated |
+
+### 📜 Professional Certifications
 
 | Certification | Provider | Status |
 |--------------|----------|--------|

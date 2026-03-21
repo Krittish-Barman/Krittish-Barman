@@ -8,13 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=MCA+Student+%40+B.P.+Poddar+Institute+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%9A%80;Cybersecurity+%26+Penetration+Testing+%F0%9F%94%90;DSA+Problem+Solver+%F0%9F%92%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Applications+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Krittish-Barman&color=6366F1&style=for-the-badge&label=Profile+Views)](https://github.com/Krittish-Barman)
-[![GitHub followers](https://img.shields.io/github/followers/Krittish-Barman?style=for-the-badge&color=6366F1)](https://github.com/Krittish-Barman?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Krittish-Barman?style=for-the-badge&color=6366F1)](https://github.com/Krittish-Barman?tab=repositories)
-
-</div>
 
 ---
 

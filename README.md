@@ -120,7 +120,7 @@ Real-time weather app with geolocation
 
 ⭐ **Star my repos if you find them useful!**
 
-</div>
+</div>  
 
 ---
 

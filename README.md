@@ -1,6 +1,5 @@
 <div align="center">
 
-  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Krittish%20Barman&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=52" width="100%"/>
 
 
@@ -51,7 +50,7 @@ const krittish = {
 
 ---
 
-## 🚀 Featured Projects
+##  🚀 Featured Projects
 
 <table>
 <tr>

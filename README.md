@@ -3,7 +3,6 @@
 
 
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MCA+Student+%40+B.P.+Poddar+Institute+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+Scalable+Applications+%E2%9C%A8" />
 
 </div>
